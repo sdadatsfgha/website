@@ -25,7 +25,6 @@ export default function Navigation() {
     { to: '/solutions', label: 'Solutions' },
     { to: '/how-it-works', label: 'How It Works' },
     { to: '/examples', label: 'Example Automations' },
-    { to: '/team', label: 'Team' },
     { to: '/growth-framework', label: 'Growth Framework' },
   ];
 

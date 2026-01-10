@@ -53,14 +53,6 @@ export default function Footer() {
               </li>
               <li>
                 <Link
-                  to="/team"
-                  className="text-slate-400 hover:text-cyan-400 transition-colors text-sm"
-                >
-                  Team
-                </Link>
-              </li>
-              <li>
-                <Link
                   to="/growth-framework"
                   className="text-slate-400 hover:text-cyan-400 transition-colors text-sm"
                 >
